@@ -31,13 +31,12 @@ I have made a Hill Climb Racing Game Controller. The game runs as we move our ha
 ## :dart: How To Use ##
 
 ### Basic Interface of Window:-
-![Basic Interface of Window](https://github.com/jaydhavale236/Guestures_Automation/blob/c9ac24256258b69273dfbbb687f66c037b78f787/GAS.png).
 
 ### Playing the Game:-   
-![GAS](https://github.com/jaydhavale236/Guestures_Automation/assets/68918708/a3d4fb27-1a4c-4033-b175-90b514ec01f9)
-![BREAK](https://github.com/jaydhavale236/Guestures_Automation/assets/68918708/538db19a-b56c-44d7-be8f-5194fb797457)
 
 
+![Gas](https://github.com/iAtharva26/Hand-Gesture-Controlled-Gaming/assets/78012377/322f7c9e-c0bb-42a2-9d3e-795a4e514e24)
+![Break](https://github.com/iAtharva26/Hand-Gesture-Controlled-Gaming/assets/78012377/d46c42d4-2e08-4a54-9cab-ff75f6fbd76e)
 
 ## :sparkles: Features ##
 
