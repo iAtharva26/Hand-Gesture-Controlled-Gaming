@@ -62,7 +62,7 @@ You should also install Hill Climb Racing by going to <a href="https://www.micro
 
 ## :memo: Made By ##
 
-Made with :heart: by <a href="https://github.com/jaydhavale236" target="_blank">Jaydip Dhavale</a>
+Made with :heart: by <a href="https://github.com/iAtharva26" target="_blank">Atharva Waghdhare</a>
 
 &#xa0;
 
