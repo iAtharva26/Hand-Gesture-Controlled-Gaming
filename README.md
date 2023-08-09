@@ -18,7 +18,7 @@ About It is a Hill Climb Racing Game Controller. The game runs as we move our ha
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#memo-Made-By">Made By</a> &#xa0; | &#xa0;
-  <a href="https://github.com/jaydhavale236" target="_blank">Author</a>
+  <a href="https://github.com/iAtharva26" target="_blank">Author</a>
 </p>
 
 <br>
